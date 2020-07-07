@@ -1,0 +1,9 @@
+:root {
+  --header-bg: rgb(0,0,0);
+  --nav-bg: rgba(0,0,0,0.6);
+  --nav-border: rgba(0,0,0,0.8);
+}
+
+:root[data-theme=dark] {
+  --header-bg: blue;
+}
